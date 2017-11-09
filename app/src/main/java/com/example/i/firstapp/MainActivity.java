@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         vp = (ViewPager) findViewById(R.id.vp);
-
+        //github test
     }
 
     public void clicka(View view){
