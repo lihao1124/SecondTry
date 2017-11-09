@@ -11,7 +11,7 @@ public class Outer {
     public InnerStatic getInnerStatic() {
         return innerStatic;
     }
-//test
+//testdsadsa
     public void setInnerStatic(InnerStatic innerStatic) {
         this.innerStatic = innerStatic;
     }
